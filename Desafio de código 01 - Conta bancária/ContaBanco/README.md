@@ -2,7 +2,8 @@
 www.dio.me
 
 #### Autores
-- [Gleyson Sampaio](https://github.com/glysns)
+- Desafio: [Gleyson Sampaio](https://github.com/glysns)
+- Resolução: [Luis Oliveira](https://github.com/luisoliveira-jr)
 
 ## Sintaxe - Desafio
 
