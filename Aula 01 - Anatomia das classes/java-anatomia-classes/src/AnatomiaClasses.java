@@ -15,7 +15,7 @@ public class AnatomiaClasses {
         // String formatarCep (long cep)
 
         // Classe System com saida "out" que imprime "print" algo
-        System.out.println("Hello, World!");
+        System.out.println("Hello, World! teste");
     }
 
     // Nome da variável deve seguir o padrão camelCase
